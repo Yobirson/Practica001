@@ -38,7 +38,7 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                   <img src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/05/ia-google.jpg?resize=1200%2C1200&quality=60&strip=all&ssl=1" alt="hola"
+                   <img src="https://ps.w.org/the-intelligent/assets/icon-128x128.gif?rev=2655731"
                          <body>
   <p style="color:#FF0000";>hola mundo</p>
 </body>
